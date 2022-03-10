@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: sandeepakkireddy90/petclinic
-  tag: latest
+  tag: 9
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
